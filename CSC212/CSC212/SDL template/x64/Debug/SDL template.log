@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\CHIKA PC\Desktop\Year 2 notes\2nd Semester\Computer graphics\SDL template - Copy (2)\SDL template\test.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDL template.vcxproj -> C:\Users\CHIKA PC\Desktop\Year 2 notes\2nd Semester\Computer graphics\SDL template - Copy (2)\x64\Debug\SDL template.exe
