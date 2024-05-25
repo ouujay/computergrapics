@@ -1,0 +1,6 @@
+﻿  pyramidNoOOP.cpp
+C:\GL\PyramidCreation\pyramidNoOOP.cpp(55,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\PyramidCreation\pyramidNoOOP.cpp(55,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\PyramidCreation\pyramidNoOOP.cpp(55,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\PyramidCreation\pyramidNoOOP.cpp(55,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PyramidCreation.snl.vcxproj -> C:\GL\PyramidCreation\x64\Debug\PyramidCreation.snl.exe
